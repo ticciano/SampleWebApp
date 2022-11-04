@@ -1,5 +1,11 @@
 # SampleWebAppdocker 
 
+### Download SampleWebApp
+
+```
+https://www.middlewareinventory.com/blog/sample-web-application-war-file-download/
+```
+
 
 ### Run initial wildfly container
 ```
